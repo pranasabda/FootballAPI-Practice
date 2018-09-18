@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PlayFootballApp</string>
+
+    <array name="league">
+        <item>Spanish La Liga</item>
+        <item>English Premier League</item>
+        <item>English League Championship</item>
+        <item>German Bundesliga</item>
+        <item>Italian Serie A</item>
+        <item>French Ligue 1</item>
+    </array>
+
+</resources>
